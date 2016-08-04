@@ -1,0 +1,44 @@
+_repo: The-Life-of-Flavius-Josephus_2846
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Whiston, William
+    birthdate: 1667
+    deathdate: 1752
+    gutenberg_agent_id: '1051'
+    url: http://www.gutenberg.org/2009/agents/1051
+    wikipedia: http://en.wikipedia.org/wiki/William_Whiston
+creator:
+  author:
+    agent_name: Josephus, Flavius
+    birthdate: 37
+    gutenberg_agent_id: '1050'
+    url: http://www.gutenberg.org/2009/agents/1050
+    wikipedia: http://en.wikipedia.org/wiki/Josephus
+description: The Life of Josephus ("Iosepou bios"), also called the "Life of Flavius
+  Josephus", is an autobiographical text written by Josephus in approximately 94-99
+  CE? possibly as an appendix to his Antiquities of the Jews (cf. Life 430)? where
+  the author for the most part re-visits the events of the War, apparently in response
+  to allegations made against him by Justus of Tiberias (cf. Life 336). Adapted from
+  http://en.wikipedia.org/wiki/The_Life_of_Flavius_Josephus].
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographies'
+- !lcsh 'Rome -- History -- Empire, 30 B.C.-284 A.D.'
+- !lcsh 'Jews -- History -- Rebellion, 66-73'
+- !lcsh 'Josephus, Flavius'
+- !lcc 'DS'
+- !lcsh 'Jewish historians -- Biography'
+- !lcc 'CT'
+- !lcsh 'Jews -- Biography'
+- GITenberg
+title: The Life of Flavius Josephus
+url: http://www.gutenberg.org/ebooks/2846
