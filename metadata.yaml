@@ -1,5 +1,5 @@
 _repo: The-Life-of-Flavius-Josephus_2846
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Whiston, William
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1051'
     url: http://www.gutenberg.org/2009/agents/1051
     wikipedia: http://en.wikipedia.org/wiki/William_Whiston
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Josephus, Flavius
@@ -21,6 +24,8 @@ description: The Life of Josephus ("Iosepou bios"), also called the "Life of Fla
   the author for the most part re-visits the events of the War, apparently in response
   to allegations made against him by Justus of Tiberias (cf. Life 336). Adapted from
   http://en.wikipedia.org/wiki/The_Life_of_Flavius_Josephus].
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2846#The-Life-of-Flavius-Josephus
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
